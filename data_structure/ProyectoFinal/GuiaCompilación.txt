@@ -1,5 +1,0 @@
-Guia de compilación.
-1.-Abrir terminal
-2.-Navegar hasta la carpeta donde se encuentran los archivos, ejemplo : cd "Estructura de datos\Actividades\ProyectoFinal"
-3.-Compilar el proyecto con el comando de gcc : gcc -o calc.exe calc.c converter.c stack.c list.c -lm
-4.-Usar el programa , para obtener ayuda usar : ./calc -h  o ./calc.exe -h
